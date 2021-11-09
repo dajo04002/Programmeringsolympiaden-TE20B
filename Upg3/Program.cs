@@ -6,7 +6,7 @@ namespace Upg2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Antal med grönt kort?");
+            Console.WriteLine("Antal utan grönt kort?");
             int M = int.Parse(Console.ReadLine());
             int s = 0;
 
