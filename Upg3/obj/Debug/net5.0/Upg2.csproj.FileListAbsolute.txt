@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\Upg2.exe
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\Upg2.deps.json
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\Upg2.runtimeconfig.json
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\Upg2.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\Upg2.dll
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\ref\Upg2.dll
+C:\Users\Admin\Documents\Olympiaden\Upg2\bin\Debug\net5.0\Upg2.pdb
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.AssemblyInfo.cs
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.dll
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\ref\Upg2.dll
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.pdb
+C:\Users\Admin\Documents\Olympiaden\Upg2\obj\Debug\net5.0\Upg2.genruntimeconfig.cache
